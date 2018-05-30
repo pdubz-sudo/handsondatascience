@@ -10,7 +10,7 @@ The training and test sets are split by dates. In the test set, you will predict
 the users dataset dates back to 2010. 
 
 File descriptions
-train_users.csv - the training set of users
+-- train_users.csv - the training set of users
 test_users.csv - the test set of users
 id: user id
 date_account_created: the date of account creation
