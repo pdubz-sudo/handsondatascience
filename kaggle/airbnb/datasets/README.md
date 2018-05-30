@@ -9,6 +9,12 @@ The training and test sets are split by dates. In the test set, you will predict
 (note: this is updated on 12/5/15 when the competition restarted). In the sessions dataset, the data only dates back to 1/1/2014, while 
 the users dataset dates back to 2010. 
 
+I have also included a participants Python notebook which might possibly give some guidance on how to analyze this dataset.
+
+The Kaggle competitions website has many resources and a discussion to look at: 
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+
+
 File descriptions
 
     train_users.csv - the training set of users
@@ -40,4 +46,4 @@ File descriptions
     age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
     sample_submission.csv - correct format for submitting your predictions
 
-I have also included a participants Python notebook which might possibly give some guidance on how to analyze this dataset.
+
