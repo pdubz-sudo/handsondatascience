@@ -10,6 +10,7 @@ The training and test sets are split by dates. In the test set, you will predict
 the users dataset dates back to 2010. 
 
 I have also included a participants Python notebook which might possibly give some guidance on how to analyze this dataset.
+Note: I have not ran code from that particular notebook myself.
 
 The Kaggle competitions website has many resources and a discussion to look at: 
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
