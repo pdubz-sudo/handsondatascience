@@ -39,3 +39,5 @@ File descriptions
     countries.csv - summary statistics of destination countries in this dataset and their locations
     age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
     sample_submission.csv - correct format for submitting your predictions
+
+I have also included a participants Python notebook which might possibly give some guidance on how to analyze this dataset.
