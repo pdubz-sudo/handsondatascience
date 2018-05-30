@@ -7,3 +7,6 @@ booking, and better forecast demand.
 In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking. Kagglers 
 who impress with their answer (and an explanation of how they got there) will be considered for an interview for the opportunity to join 
 Airbnb's Data Science and Analytics team.
+
+All the details can be found on the Kaggle website:
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
