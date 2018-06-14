@@ -1,6 +1,7 @@
 ## Getting into R
 
-Olof Rännbäck Garpinger presentation for getting into R.
+Olof Rännbäck Garpinger presentation for getting into R which can also be found at his Github 
+https://github.com/olofgarpinger/hands_on_data_science
 
 This folder contains Olof's code and Kaggles Airbnb train_users_2 dataset which was used for his presentation.
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
