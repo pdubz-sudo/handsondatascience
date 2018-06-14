@@ -1,6 +1,6 @@
 ## DATASET
 
-This folder contains a train, test (no-labels), and test (labeled) dataset
+This folder contains train, test, and sample submission format datasets
 
 
 The folder also includes the code for the splits which was applied to the original train dataset found at
