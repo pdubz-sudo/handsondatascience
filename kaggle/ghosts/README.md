@@ -1,3 +1,6 @@
+# Ghouls, Goblins, and Ghosts... Boo!
+## Classification
+
 https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
 
 Get out your dowsing rods, electromagnetic sensors, … and gradient boosting machines. Kaggle is haunted and we need your help. After a month of making scientific 
